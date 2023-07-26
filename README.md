@@ -1,4 +1,4 @@
-# LGMVIP-WEB-Task_2.github.io
+# LGMVIP-WEB-Task_2
 
 ## Task 2
 
